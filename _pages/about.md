@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. Student in [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html) at the [University of Miami](https://welcome.miami.edu/). I received M.Phil. in Computer and Information Engineering from The Chinese University of HongKong, Shenzhen in 2024, and B.Eng. in Telecommunication Engineering from Zhengzhou University in 2021.
+I am a first-year Ph.D. Student in [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html) at the [University of Miami](https://welcome.miami.edu/) with the supervision of Prof.[Mingzhe Chen](https://winslab.us/). I received M.Phil. in Computer and Information Engineering from The Chinese University of HongKong, Shenzhen in 2024, and B.Eng. in Telecommunication Engineering from Zhengzhou University in 2021.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
