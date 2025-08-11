@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. Student in [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html) at the [University of Miami](https://welcome.miami.edu/) with the supervision of Prof.[Mingzhe Chen](https://winslab.us/). I received M.Phil. in Computer and Information Engineering from The Chinese University of HongKong, Shenzhen in 2024, and B.Eng. in Telecommunication Engineering from Zhengzhou University in 2021.
+I am a first-year Ph.D. Student in [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html) at the [University of Miami](https://welcome.miami.edu/) with the supervision of Prof. [Mingzhe Chen](https://winslab.us/). I received M.Phil. in Computer and Information Engineering from The Chinese University of HongKong, Shenzhen in 2024, and B.Eng. in Telecommunication Engineering from Zhengzhou University in 2021.
 
 **Research Interests:**
 
