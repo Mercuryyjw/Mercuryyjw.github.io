@@ -19,6 +19,9 @@ Research Interests:
 Publications
 ======
 
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=bt2iIEMAAAAJ&hl=en).
+
+
 Journal Papers:
 ------
 
