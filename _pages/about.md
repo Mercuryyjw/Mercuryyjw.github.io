@@ -9,8 +9,8 @@ redirect_from:
 
 I am a first-year Ph.D. Student in [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html) at the [University of Miami](https://welcome.miami.edu/) with the supervision of Prof.[Mingzhe Chen](https://winslab.us/). I received M.Phil. in Computer and Information Engineering from The Chinese University of HongKong, Shenzhen in 2024, and B.Eng. in Telecommunication Engineering from Zhengzhou University in 2021.
 
-Research Interests:
-------
+**Research Interests:**
+
 1. Intelligent Reflecting Surfaces (IRS)/Reconfigurable Intelligent Surface (RIS),
 1. Movable Antenna (MA)/Fluid Antenna System (FAS) 
 1. Optimization for wireless communication system.
