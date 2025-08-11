@@ -24,7 +24,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Journal Papers:**
 
-1. Wenhai Lai, Jiawei Yao, Kaiming Shen, "Blind Passive Beamforming for MIMO System, IEEE Wireless Communication Letters", early access. 2025.
+1. Wenhai Lai, Jiawei Yao, Kaiming Shen, "Blind Passive Beamforming for MIMO System", IEEE Wireless Communication Letters, early access. 2025.
 
 1. Fan Xu, Jiawei Yao, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "Blind Beamforming for Coverage Enhancement with Intelligent Reflecting Surface", IEEE Transactions on Wireless Communications, Nov. 2024.
    
