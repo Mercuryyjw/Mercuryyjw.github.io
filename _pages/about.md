@@ -36,7 +36,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
     
 1. Fan Xu, Jiawei Yao, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "Blind Beamforming for Multiple-IRS Assisted Wireless Transmission", in IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sept. 2023.
 
-1. Jiawei Yao, Fan Xu, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, `'Blind Beamforming for Multiple Intelligent Reflecting Surfaces", in IEEE International Conference on Communications (ICC), May 2023.
+1. Jiawei Yao, Fan Xu, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "Blind Beamforming for Multiple Intelligent Reflecting Surfaces", in IEEE International Conference on Communications (ICC), May 2023.
 
 ------
 
