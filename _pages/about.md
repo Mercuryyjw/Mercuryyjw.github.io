@@ -24,7 +24,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Journal Papers:**
 
-1. Wenhai Lai, Jiawei Yao, Kaiming Shen, Blind Passive Beamforming for MIMO System, IEEE Wireless Communication Letters, early access. 2025.
+1. Wenhai Lai, Jiawei Yao, Kaiming Shen, "Blind Passive Beamforming for MIMO System, IEEE Wireless Communication Letters", early access. 2025.
 
 1. Fan Xu, Jiawei Yao, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "Blind Beamforming for Coverage Enhancement with Intelligent Reflecting Surface", IEEE Transactions on Wireless Communications, Nov. 2024.
    
@@ -32,11 +32,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Conference Papers:**
 
-1. Jiawei Yao, Yijie Mao, Xiaohua Zhou, Mingzhe Chen  "RIS-Assisted Localization: A Novel Conditional Sample Mean Approach without CSI", in Submission, Aug. 2025.
+1. Jiawei Yao, Yijie Mao, Xiaohua Zhou, Mingzhe Chen  "Movable-Antenna Position Optimization: A Complex Number Superposition-Based Method", in Submission, Aug. 2025.
     
-1. Fan Xu, Jiawei Yao, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, Blind Beamforming for Multiple-IRS Assisted Wireless Transmission, in IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sept. 2023.
+1. Fan Xu, Jiawei Yao, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "Blind Beamforming for Multiple-IRS Assisted Wireless Transmission", in IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sept. 2023.
 
-1. Jiawei Yao, Fan Xu, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, Blind Beamforming for Multiple Intelligent Reflecting Surfaces, in IEEE International Conference on Communications (ICC), May 2023.
+1. Jiawei Yao, Fan Xu, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "Blind Beamforming for Multiple Intelligent Reflecting Surfaces", in IEEE International Conference on Communications (ICC), May 2023.
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
