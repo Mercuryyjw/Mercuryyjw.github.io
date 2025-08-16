@@ -12,7 +12,8 @@ I am a first-year Ph.D. Student in [Electrical and Computer Engineering](https:/
 **Research Interests:**
 
 1. Intelligent Reflecting Surfaces (IRS)/Reconfigurable Intelligent Surface (RIS),
-1. Movable Antenna (MA)/Fluid Antenna System (FAS) 
+1. Movable Antenna (MA)/Fluid Antenna System (FAS),
+1. Integrated/Joint Sensing and Communication,
 1. Optimization for wireless communication system.
 
 ------
