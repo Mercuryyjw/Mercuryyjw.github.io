@@ -25,6 +25,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Journal Papers:**
 
+1. ***Jiawei Yao***, Dongyu Wei, Mingzhe Chen,  "Joint Optimization of Movable Antenna Positions, Beamforming, and UAV Deployment for Sensing Resilient UAV Communications", *in Submission*, Nov. 2025.
+
+1. ***Jiawei Yao***, Yijie Mao, Xiaohua Zhou, Zhaohui Yang, Mingzhe Chen,  "Joint Optimization of Antenna Positions and Beamforming for FAS-Assisted MIMO Systems", *in Submission*, Nov. 2025.
+
 1. Wenhai Lai, ***Jiawei Yao***, Kaiming Shen, "Blind Passive Beamforming for MIMO System", *IEEE Wireless Commun. Lett.*, early access. 2025.
 
 1. Fan Xu, ***Jiawei Yao***, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "Blind Beamforming for Coverage Enhancement with Intelligent Reflecting Surface", *IEEE Trans. Wireless Commun.*, Nov. 2024.
@@ -33,7 +37,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Conference Papers:**
 
-1. ***Jiawei Yao***, Yijie Mao, Xiaohua Zhou, Mingzhe Chen  "Movable-Antenna Position Optimization: A Complex Number Superposition-Based Method", *in Submission*, Aug. 2025.
+1. ***Jiawei Yao***, Hanqing Guo, Mingzhe Chen,  "Joint Optimization of Movable Antenna Positions, Beamforming, and UAV Deployment for Sensing Resilient UAV Communications", *in Submission*, Nov. 2025.
+
+1. ***Jiawei Yao***, Yijie Mao, Xidong Mu, Rui Zhang, Mingzhe Chen,  "Capacity Maximization for MA-Enhanced MIMO Systems: A Low Complexity Approach", *in Submission*, Nov. 2025.
     
 1. Fan Xu, ***Jiawei Yao***, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "Blind Beamforming for Multiple-IRS Assisted Wireless Transmission", in *Proc. IEEE Int. Workshop Signal Process. Adv. Wireless Commun. (SPAWC)*, Sept. 2023.
 
