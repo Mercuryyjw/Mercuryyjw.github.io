@@ -11,9 +11,8 @@ I am a second-year Ph.D. Student in Electrical and Computer Engineering at the U
 
 **Research Interests:**
 
-1. Intelligent Reflecting Surfaces (IRS)/Reconfigurable Intelligent Surface (RIS),
+1. Curved/ Airy Beams,
 1. Movable Antenna (MA)/Fluid Antenna System (FAS),
-1. Integrated/Joint Sensing and Communication,
 1. Optimization for wireless communication system.
 
 ------
@@ -25,9 +24,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Journal Papers:**
 
+1. ***Jiawei Yao***, Xiaoren Xu, Walid Saad, Mingzhe Chen, "Curved beam enabled wireless communications: Modeling, analysis and optimization", 2026, [Online]. Available: https://arxiv.org/abs/2606.10164.
+
+1. Dongyu Wei, ***Jiawei Yao***, Mingzhe Chen, "Joint Optimization of Federated Learning and Unlearning over Wireless Networks", *in Submission*, Nov. 2025.
+
 1. ***Jiawei Yao***, Dongyu Wei, Mingzhe Chen, "Joint Optimization of Movable Antenna Positions, Beamforming, and UAV Deployment for Sensing Resilient UAV Communications", *in Submission*, Nov. 2025.
 
-1. ***Jiawei Yao***, Yijie Mao, Xiaohua Zhou, Zhaohui Yang, Mingzhe Chen, "Joint Optimization of Antenna Positions and Beamforming for FAS-Assisted MIMO Systems", *in Submission*, Nov. 2025.
+1. ***Jiawei Yao***, Yijie Mao, Xiaohua Zhou, Zhaohui Yang, "Joint Optimization of Antenna Positions and Beamforming for FAS/MA-Assisted MIMO Systems", *in Submission*, Nov. 2025.
 
 1. Wenhai Lai, ***Jiawei Yao***, Kaiming Shen, "Blind Passive Beamforming for MIMO System", *IEEE Wireless Commun. Lett.*, early access. 2025.
 
@@ -37,9 +40,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Conference Papers:**
 
-1. ***Jiawei Yao***, Hanqing Guo, Mingzhe Chen, "Joint Optimization of Movable Antenna Positions, Beamforming, and UAV Deployment for Sensing Resilient UAV Communications", *in Submission*, Nov. 2025.
+1. ***Jiawei Yao***, Hanqing Guo, Yili Ren, Mingzhe Chen, "Sensing-Resilient UAV Communications with Movable Antennas: Countering Eavesdropping and Unauthorized Localization", *in Submission*, Nov. 2026.
 
-1. ***Jiawei Yao***, Yijie Mao, Xidong Mu, Rui Zhang, Mingzhe Chen, "Capacity Maximization for MA-Enhanced MIMO Systems: A Low Complexity Approach", *in Submission*, Nov. 2025.
+1. Xiaoren Xu, ***Jiawei Yao***, Mingzhe Chen, "Joint Optimization of Antenna Rotation, Near/Far Field Model Selection for Unmanned Aerial Vehicle (UAV) Networks", in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Dec. 2026. 
+
+1. ***Jiawei Yao***, Walid Saad, Xidong Mu, Rui Zhang, Xiulong Bao, Mingzhe Chen, "Heterogeneous Timescale Optimization of Beamforming and Antenna Positions for FAS-enabled Secure Communication", in *Proc. IEEE Int. Workshop Signal Process. Adv. Wireless Commun. (SPAWC)*, Sept. 2026.
+
+1. ***Jiawei Yao***, Yijie Mao, Xidong Mu, Rui Zhang, Mingzhe Chen, "Capacity Maximization for MA-Enhanced MIMO Systems: A Low Complexity Approach", in *Proc. IEEE Int. Commun. Conf. Workshop (ICC Workshops)*, May 2026.
     
 1. Fan Xu, ***Jiawei Yao***, Wenhai Lai, Kaiming Shen, Xin Li, Xin Chen, and Zhi-Quan Luo, "Blind Beamforming for Multiple-IRS Assisted Wireless Transmission", in *Proc. IEEE Int. Workshop Signal Process. Adv. Wireless Commun. (SPAWC)*, Sept. 2023.
 
