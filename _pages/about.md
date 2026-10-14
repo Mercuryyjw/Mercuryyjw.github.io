@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. Student in Electrical and Computer Engineering at the University of Miami with the supervision of Prof. Mingzhe Chen. I received M.Phil. in Computer and Information Engineering from The Chinese University of HongKong, Shenzhen in 2024, and B.Eng. in Telecommunication Engineering from Zhengzhou University in 2021.
+I am a second-year Ph.D. Student in Electrical and Computer Engineering at the University of Miami with the supervision of Prof. Mingzhe Chen. I received M.Phil. in Computer and Information Engineering from The Chinese University of HongKong, Shenzhen in 2024, and B.Eng. in Telecommunication Engineering from Zhengzhou University in 2021.
 
 **Research Interests:**
 
